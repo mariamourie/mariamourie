@@ -1,9 +1,10 @@
 ## ✨ Olá! Seja bem-vindo(a), me chamo Maria Eduarda Cruz e sou desenvolvedora Front-End.
 
 # 💫 Sobre mim: <br>
-- 👩🏽‍💻 Sou técnica em desenvolvimento de sistemas
+- 👩🏽‍💻 Sou técnica em Desenvolvimento de Sistemas
 - 🎓 Curso Sistemas de Informação na UFRRJ
 - 🖥️ Atualmente a tecnologia que estou estudando é Javascript
+- ✉️ Contate-me no email: mariaeduardacruz@gmail.com
 - 😊 Pronomes: ela/dela
 
 ## 🌐 Redes Sociais:
