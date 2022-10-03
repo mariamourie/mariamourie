@@ -4,7 +4,7 @@
 - 👩🏽‍💻 Sou técnica em Desenvolvimento de Sistemas
 - 🎓 Curso Sistemas de Informação na UFRRJ
 - 🖥️ Atualmente a tecnologia que estou estudando é Javascript
-- ✉️ Contate-me no email: mariaeduardacruz@gmail.com
+- ✉️ Contate-me no email: mariaeduardacruzcv@gmail.com
 - 😊 Pronomes: ela/dela
 
 ## 🌐 Redes Sociais:
