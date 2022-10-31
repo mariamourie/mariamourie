@@ -2,8 +2,8 @@
 
 # 💫 Sobre mim: <br>
 - 👩🏽‍💻 Sou técnica em Desenvolvimento de Sistemas
-- 🎓 Curso Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro
-- 🖥️ Atualmente a tecnologia que estou estudando é Javascript
+- 🎓 Cursando Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro (2/8)
+- 🖥️ As tecnologias que estou estudando no momento: Javascript, Typescript e React
 - ✉️ Contate-me no email: mariaeduardacruzcv@gmail.com
 - 😊 Pronomes: ela/dela
 
