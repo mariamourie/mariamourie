@@ -1,3 +1,5 @@
+![Profile's header](images/Purple Sky Profile Header.png)
+
 ## ✨About Me
 
 Hi there! My name is Maria Eduarda, I'm 19 years old, I'm a back-end development student.
