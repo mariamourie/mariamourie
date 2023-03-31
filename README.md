@@ -13,6 +13,5 @@ I have a degree as a technician in Systems Development from Colégio Pedro II. I
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamourie&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-eduarda-cruz) 
----
+
 [![](https://visitcount.itsvg.in/api?id=mariamourie&icon=9&color=11)](https://visitcount.itsvg.in)
