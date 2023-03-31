@@ -1,13 +1,15 @@
-## ✨ Olá! Seja bem-vindo(a), me chamo Maria Eduarda.
+## About Me
 
-# 💫 Sobre mim: <br>
-- 👩🏽‍💻 Sou técnica em Desenvolvimento de Sistemas
-- 🎓 Cursando Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro (2/8)
-- 🖥️ A tecnologia que estou estudando no momento: Java
-- ✉️ Contate-me no email: mariaeduardacruzcv@gmail.com
-- 😊 Pronomes: ela/dela
+Hi there! My name is Maria Eduarda, I'm 19 years old, I'm a back-end developement student.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+I have a degree as a technician in Systems Development from Colégio Pedro II. I'm a student of the bachelor's degree in information systems at the Universidade Federal Rural do Rio de Janeiro (UFRRJ) in Seropédica, Rio de Janeiro. I'm currently studying the Java programming language and its libraries to become a back-end developer.
+
+### Tecnologies
+
+- Java
+- Javascript
+- HTML
+- CSS
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamourie&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
