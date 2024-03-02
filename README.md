@@ -5,7 +5,7 @@
 
 Hello! My name is Maria Eduarda, I am a Java developer.
 
-I graduated as a technician in Systems Development from Colégio Pedro II. Currently, I am a student studying a bachelor's degree in information systems at the Federal Rural University of Rio de Janeiro (UFRRJ) in Seropédica, Rio de Janeiro. I've been studying programming since I was 15 years old, I really enjoy creating applications and visualizing them working through interfaces. I'm studying the Java programming language and its frameworks to become a back-end developer. My favorite hobbies are listening to music, reading books, cooking and watching romcoms.
+I graduated as a technician in Systems Development from Colégio Pedro II. Currently, I'm a student studying a bachelor's degree in information systems at the Federal Rural University of Rio de Janeiro (UFRRJ) in Seropédica, Rio de Janeiro. I've been studying programming since I was 15 years old, I really enjoy creating applications and visualizing them working through interfaces. I'm studying the Java programming language and its frameworks to become a back-end developer. My favorite hobbies are listening to music, reading books, cooking and watching romcoms.
 
 ### Technologies
 
