@@ -3,9 +3,13 @@
 <img src="images/wave.svg" alt="SVG de onda">
 <br>
 
-Hello! My name is Maria Eduarda, I am a Java developer.
+Hello! My name is Maria Eduarda, I'm a Java developer.
 
-I graduated as a technician in Systems Development from Colégio Pedro II. Currently, I'm a student studying a bachelor's degree in information systems at the Federal Rural University of Rio de Janeiro (UFRRJ) in Seropédica, Rio de Janeiro. I've been studying programming since I was 15 years old, I really enjoy creating applications and visualizing them working through interfaces. I'm studying the Java programming language and its frameworks to become a back-end developer. My favorite hobbies are listening to music, reading books, cooking and watching romcoms.
+🎓 I'm a bachelor's student in Information Systems at the Universidade Federal Rural do Rio de Janeiro (UFRRJ). <br>
+👩🏽‍🎓 I have a degree in Systems Development from Colégio Pedro II. <br>
+👩🏽‍💻 I've been studying programming since I was 15 years old, I really enjoy creating applications. <br>
+📌 I'm studying the Java programming language and its frameworks to become a back-end developer. <br>
+🌠 My favorite hobbies are listening to music, reading books, cooking and watching romcoms. <br>
 
 ### Technologies
 
