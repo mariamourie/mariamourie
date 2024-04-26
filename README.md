@@ -8,7 +8,7 @@
 🎓 I'm a bachelor's student in Information Systems at the Universidade Federal Rural do Rio de Janeiro (UFRRJ). <br>
 👩🏽‍🎓 I have a degree in Systems Development from Colégio Pedro II. <br>
 📚 I've been studying programming since I was 15 years old, I really enjoy systems development. <br>
-👩🏽‍💻 Bootcamp Santander 2024 - Back-end com Java
+👩🏽‍💻 Bootcamp Santander 2024 - Back-end com Java <br>
 📌  I’m currently learning Java and Spring.  <br>
 ✨ Interests: software development, data science.
 
