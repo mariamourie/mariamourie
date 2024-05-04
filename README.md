@@ -1,16 +1,15 @@
-# Hi there! My name is Maria, I'm a Java developer.
+# Hi there! I'm Maria Eduarda.
 
 <img src="images/wave.svg" alt="SVG de onda">
 <br>
 
 ## ✨About Me
 
-🎓 I'm a bachelor's student in Information Systems at the Universidade Federal Rural do Rio de Janeiro (UFRRJ). <br>
-👩🏽‍🎓 I have a degree in Systems Development from Colégio Pedro II. <br>
-👩🏽‍💻 Bootcamp Santander 2024 - Back-end with Java <br>
+🎓 Currently studying Information Systems at Universidade Federal Rural do Rio de Janeiro (UFRRJ). <br>
+👩🏽‍🎓 Technical in Systems Development.<br>
+👩🏽‍💻 Bootcamp Santander 2024 - Back-end com Java <br>
 📌  I’m currently learning Java and Spring.  <br>
-📚 I've been studying programming since I was 15 years old, I really enjoy systems development. <br>
-📍 Interests: computer science, software development, data science.
+📚 I've been studying programming since I was 15 years old, I’m passionate about computer science and software development. <br>
 
 ## Stacks
 
