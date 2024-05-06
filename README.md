@@ -10,16 +10,17 @@
 👩🏽‍💻 Bootcamp Santander 2024 - Back-end com Java <br>
 📌  I’m currently learning Java and Spring.  <br>
 📚 I've been studying programming since I was 15 years old, I’m passionate about computer science and software development. <br>
+📫 How to reach me **mariaeduardacruzcv@gmail.com**
 
-## Stacks
+## Languages and Frameworks
 
-[![Stacks](https://skillicons.dev/icons?i=java,spring,hibernate,js,html,css,mysql)](https://skillicons.dev)
+[![Stacks](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql)](https://skillicons.dev)
 
 ## Tools
 
 [![Tools](https://skillicons.dev/icons?i=postman,vscode,eclipse,maven,git)](https://skillicons.dev)
 
-## Social Media
+## Contact Me
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/maria-eduarda-cruz/)
 
