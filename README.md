@@ -8,7 +8,7 @@
 🎓 Currently studying Information Systems at Universidade Federal Rural do Rio de Janeiro (UFRRJ). <br>
 👩🏽‍🎓 Technical in Systems Development.<br>
 👩🏽‍💻 Bootcamp Santander 2024 - Back-end com Java <br>
-📌  I’m currently learning Java and Spring.  <br>
+📌  I’m currently learning Python.  <br>
 📚 I've been studying programming since I was 15 years old, I’m passionate about computer science and software development. <br>
 📫 How to reach me **mariaeduardacruzcv@gmail.com**
 
