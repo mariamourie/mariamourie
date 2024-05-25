@@ -9,20 +9,16 @@
 👩🏽‍🎓 Technical in Systems Development.<br>
 👩🏽‍💻 Bootcamp Santander 2024 - Back-end com Java <br>
 📌  I’m currently learning Python.  <br>
-📚 I've been studying programming since I was 15 years old, I’m passionate about computer science and software development. <br>
+📚 I've been studying programming since I was 15 years old, I’m passionate about computer science. <br>
 📫 How to reach me **mariaeduardacruzcv@gmail.com**
 
 ## Languages and Frameworks
 
-[![Stacks](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql)](https://skillicons.dev)
+[![Stacks](https://skillicons.dev/icons?i=java,spring,js,html,css,python,mysql)](https://skillicons.dev)
 
 ## Tools
 
 [![Tools](https://skillicons.dev/icons?i=postman,vscode,eclipse,maven,git)](https://skillicons.dev)
-
-## Contact Me
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/maria-eduarda-cruz/)
 
 ## Stats
 
