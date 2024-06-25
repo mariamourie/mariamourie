@@ -7,7 +7,6 @@
 
 🎓 Currently studying Information Systems at Universidade Federal Rural do Rio de Janeiro (UFRRJ). <br>
 👩🏽‍🎓 Technical in Systems Development.<br>
-👩🏽‍💻 IT Intern at Wilson Sons. <br>
 📌  I’m currently learning Python.  <br>
 📚 I've been studying programming since I was 15 years old, I’m passionate about computer science. <br>
 📫 How to reach me **mariaeduardacruzcv@gmail.com**
