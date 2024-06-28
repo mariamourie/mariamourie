@@ -13,7 +13,7 @@
 
 ## Languages and Frameworks
 
-[![Stacks](https://skillicons.dev/icons?i=js,react,nextjs,html,css,python)](https://skillicons.dev)
+[![Stacks](https://skillicons.dev/icons?i=java,spring,js,html,css,python)](https://skillicons.dev)
 
 ## Tools
 
