@@ -11,9 +11,9 @@
 📚 I've been studying programming since I was 15 years old, I’m passionate about computer science. <br>
 📫 How to reach me **mariaeduardacruzcv@gmail.com**
 
-## Languages and Frameworks
+## Stacks
 
-[![Stacks](https://skillicons.dev/icons?i=java,spring,js,html,css,python)](https://skillicons.dev)
+[![Stacks](https://skillicons.dev/icons?i=java,spring,mysql,react,flask,python)](https://skillicons.dev)
 
 ## Tools
 
