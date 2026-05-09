@@ -18,7 +18,3 @@
 ## Tools
 
 [![Tools](https://skillicons.dev/icons?i=postman,vscode,git,figma)](https://skillicons.dev)
-
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamourie&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
